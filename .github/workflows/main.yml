@@ -31,9 +31,9 @@ jobs:
       - run: npm run cy:run
         continue-on-error: true
       
-      - run: npm report:merge
+      - run: npm run report:merge
       
-      - run: npm report:mocha
+      - run: npm run report:mocha
       
    # Github Pages -> publicar o relatório
       - name: Deploy to GitHub Pages
