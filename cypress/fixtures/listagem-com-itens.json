@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Joao",
+    "lastName": "Silva",
+    "adress": "David Tows 890",
+    "emailAdress": "joao@gmai.com",
+    "radioGender": "m",
+    "checks": ["Netflix", "Dormir"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "2006",
+    "selectMonths": "Janeiro",
+    "pwd": "Alunos@2021"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Joana",
+    "adress": "David Tows 890",
+    "emailAdress": "maria@gmai.com",
+    "radioGender": "f",
+    "checks": ["Netflix", "Dormir"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "2007",
+    "selectMonths": "maio",
+    "pwd": "Alunos@2021"
+  }
+]
